@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80" opacity="0.15">
+  <g transform="translate(20,20) scale(0.3)">
+    <path d="M10,10 C-5,20 -5,40 10,50 C25,60 45,60 60,50 C75,40 75,20 60,10 C45,0 25,0 10,10" fill="#D4AF37" opacity="0.5"/>
+  </g>
+  <g transform="translate(60,60) scale(0.2)">
+     <path d="M10,10 C-5,20 -5,40 10,50 C25,60 45,60 60,50 C75,40 75,20 60,10" fill="#8F9779"/>
+  </g>
+</svg>

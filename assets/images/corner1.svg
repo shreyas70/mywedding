@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <style>
+      .floral-style {
+        fill: none;
+        stroke: #D4AF37; /* Champagne Gold Color */
+        stroke-width: 2;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <path class="floral-style" d="M-10,10 Q60,10 100,50 Q140,90 140,160" />
+  
+  <path class="floral-style" d="M20,0 Q20,60 70,110" />
+
+  <path class="floral-style" d="M60,10 Q70,0 80,10 Q70,20 60,10 Z" /> <path class="floral-style" d="M100,50 Q115,40 125,55 Q110,65 100,50 Z" /> <path class="floral-style" d="M125,100 Q145,95 150,115 Q130,120 125,100 Z" /> <path class="floral-style" d="M20,30 Q5,35 10,50 Q25,45 20,30 Z" />
+  <path class="floral-style" d="M50,80 Q40,95 55,105 Q65,90 50,80 Z" />
+
+  <g transform="translate(30, 30)">
+    <circle class="floral-style" cx="0" cy="0" r="5" />
+    <path class="floral-style" d="M0,-5 Q5,-10 10,-5 Q5,0 0,-5 Z" transform="rotate(0)" />
+    <path class="floral-style" d="M0,-5 Q5,-10 10,-5 Q5,0 0,-5 Z" transform="rotate(72)" />
+    <path class="floral-style" d="M0,-5 Q5,-10 10,-5 Q5,0 0,-5 Z" transform="rotate(144)" />
+    <path class="floral-style" d="M0,-5 Q5,-10 10,-5 Q5,0 0,-5 Z" transform="rotate(216)" />
+    <path class="floral-style" d="M0,-5 Q5,-10 10,-5 Q5,0 0,-5 Z" transform="rotate(288)" />
+  </g>
+
+  <g transform="translate(140, 160) scale(0.8)">
+    <circle class="floral-style" cx="0" cy="0" r="5" fill="#D4AF37"/>
+    <path class="floral-style" d="M0,-8 Q8,-16 16,-8 Q8,0 0,-8 Z" transform="rotate(0)" />
+    <path class="floral-style" d="M0,-8 Q8,-16 16,-8 Q8,0 0,-8 Z" transform="rotate(60)" />
+    <path class="floral-style" d="M0,-8 Q8,-16 16,-8 Q8,0 0,-8 Z" transform="rotate(120)" />
+    <path class="floral-style" d="M0,-8 Q8,-16 16,-8 Q8,0 0,-8 Z" transform="rotate(180)" />
+    <path class="floral-style" d="M0,-8 Q8,-16 16,-8 Q8,0 0,-8 Z" transform="rotate(240)" />
+    <path class="floral-style" d="M0,-8 Q8,-16 16,-8 Q8,0 0,-8 Z" transform="rotate(300)" />
+  </g>
+</svg>
